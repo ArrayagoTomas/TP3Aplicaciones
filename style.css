@@ -1,0 +1,40 @@
+#titulo-principal{
+    color: green;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+}
+
+.nombre{
+    color: darkblue;
+    font-size: 26px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.descripcion{
+    background-color: white;
+    padding: 15px;
+    font-size: 16px;
+    border-left: 4px solid cyan;
+    margin: 10px;
+}
+
+.subtitulo{
+    font-size: 20px;
+    color: red;
+    margin-top: 30px;
+}
+
+ul{
+    background-color: white;
+    padding: 10px;
+    border: 2px dashed yellow;
+}
+
+.firma{
+    text-align: right;
+    font-style: italic;
+    color: grey;
+    font-size: 14px;
+}
